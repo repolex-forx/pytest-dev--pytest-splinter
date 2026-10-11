@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-splinter",
+  "versions": [
+    {
+      "commit": "1b0aa1efaec40919d79d424bb6d5c418925f2ad6",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:04:29.988298+00:00"
+    }
+  ]
+}
